@@ -26,7 +26,7 @@ export const Logo = () => {
                     font.className
                 )}>
                     <p className="text-lg font-semibold">
-                        Gamehub
+                        Gamers Locomotive
                     </p>
                     <p className="text-xs text-muted-foreground">
                         Let&apos;s play
